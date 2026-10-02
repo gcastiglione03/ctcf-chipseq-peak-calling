@@ -1,0 +1,9 @@
+raw_fastq/
+genome/
+aligned/
+qc_raw/
+peaks/
+*.bam
+*.bam.bai
+*.fastq.gz
+*.fa
